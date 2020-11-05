@@ -6,3 +6,16 @@
     text-align: center;
 }
 
+a {
+    color: #d6d6d6;
+    text-decoration: none;
+}
+
+#jsp {
+    margin-top: 27px;
+}
+
+li {
+    display: inline;
+    color: #d6d6d6;
+}
