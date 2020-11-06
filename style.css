@@ -1,3 +1,8 @@
+html {
+    margin: 0;
+    padding: 0;
+    width: auto;
+}
 #menu {
     width: 100%;
     max-height: 55px;
@@ -12,10 +17,20 @@ a {
 }
 
 #jsp {
-    margin-top: 27px;
+    width: 100%;
+    padding-top: 2px;
 }
 
+ul {
+    width: 100%;
+    margin-top: 20px;
+}
 li {
     display: inline;
     color: #d6d6d6;
+    padding-left: 150px;
+}
+
+#pomme {
+    padding-left: 0px;
 }
